@@ -1,5 +1,8 @@
 {
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
-  "files.exclude": {}
+  "files.exclude": {},
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  }
 }
